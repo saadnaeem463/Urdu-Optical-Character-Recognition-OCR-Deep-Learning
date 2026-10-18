@@ -12,7 +12,7 @@
 ![Handwriting](https://img.shields.io/badge/Handwriting-Not%20supported-D73A49?style=for-the-badge)
 ![License](https://img.shields.io/badge/Data%20%26%20weights-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)
 
-**[🚀 Live demo](#)** · **[📚 Full documentation](docs/DOCUMENTATION.md)** · **[📊 Benchmarks](#-benchmarks)** · **[🙏 Credits](#-data-and-credits)**
+**[🚀 Live demo](https://urdu-optical-character-recognition-ocr-deep-learning.streamlit.app/)** · **[📚 Full documentation](docs/DOCUMENTATION.md)** · **[📊 Benchmarks](#-benchmarks)** · **[🙏 Credits](#-data-and-credits)**
 
 *(Replace `#` above with your Streamlit link. Free Streamlit apps sleep after a period of inactivity, so if you see a wake-up button, click it and wait about a minute.)*
 
