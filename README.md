@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 📖 Urdu OCR · CRNN + CTC
@@ -220,3 +221,6 @@ If you use this work, please also cite the UTRNet paper:
 ⭐ If this project helped you, consider starring the repo.
 
 </div>
+=======
+# Urdu-Optical-Character-Recognition-OCR-Deep-Learning
+>>>>>>> origin/main
