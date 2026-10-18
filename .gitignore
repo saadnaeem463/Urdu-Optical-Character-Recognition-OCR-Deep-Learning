@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Stray Node.js files (this project does not use Node)
+node_modules/
+package.json
+package-lock.json
+
+# Jupyter and OS junk
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/

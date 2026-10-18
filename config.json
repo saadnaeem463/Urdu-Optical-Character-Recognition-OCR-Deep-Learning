@@ -1,0 +1,7 @@
+{
+ "IMG_H": 96,
+ "DOWN": 4,
+ "num_classes": 164,
+ "train_max_w": 2048,
+ "infer_max_w": 4096
+}
